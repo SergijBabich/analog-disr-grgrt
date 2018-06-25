@@ -1,0 +1,29 @@
+Title: * D:\2ÊÓĞÑ\êóğñà÷\llll.asc
+Date: Sat May 19 21:01:48 2018
+Plotname: Operating Point
+Flags: real
+No. Variables: 13
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 a y vcc vgnd
+Backannotation: u1:in in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Variables:
+	0	V(n002)	voltage
+	1	V(n001)	voltage
+	2	V(n003)	voltage
+	3	V(n004)	voltage
+	4	I(C1)	device_current
+	5	I(D1)	device_current
+	6	I(R4)	device_current
+	7	I(R3)	device_current
+	8	I(R2)	device_current
+	9	I(R1)	device_current
+	10	Ix(u1:A)	subckt_current
+	11	Ix(u1:Y)	subckt_current
+	12	Ix(u1:VGND)	subckt_current
+Binary:
+hdµ.Xa?ùµ@Á
+;vÁ
+;x—&¸[,¬%üû«Cr‰ª[,¬À&¸s½­2À&8x—&¸

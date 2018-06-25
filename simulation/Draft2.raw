@@ -1,0 +1,12 @@
+Title: * D:\2ÊÓÐÑ\êóðñà÷\Draft2.asc
+Date: Sat May 19 16:10:38 2018
+Plotname: Transient Analysis
+Flags: real forward
+No. Variables: 14
+No. Points:            0
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 a y vcc vgnd
+Backannotation: u1:in in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Variables:

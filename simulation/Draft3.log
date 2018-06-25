@@ -1,0 +1,64 @@
+Circuit: * D:\2ÊÓÐÑ\êóðñà÷\Draft3.asc
+
+V1: both pins shorted together -- ignoring.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.226e-005
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 72.7332%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 52.4621%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Ignoring empty pin current: Ix(u1:vcc)
+Changing Tseed to 9.76562e-008
+Changing Tseed to 9.76562e-010
+Changing Tseed to 9.76562e-007
+Changing Tseed to 9.76562e-011
+
+Date: Sat May 19 21:30:55 2018
+Total elapsed time: 0.658 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 225686
+traniter = 7670
+tranpoints = 2351
+accept = 2020
+rejected = 5955
+matrix size = 11
+fillins = 1
+solver = Normal
+Matrix Compiler1: 458 bytes object code size  0.3/0.1/[0.0]
+Matrix Compiler2: 673 bytes object code size  0.2/0.3/[0.2]
+
+
